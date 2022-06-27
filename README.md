@@ -1,0 +1,2 @@
+# RollerCoin
+Bot for RollerCoin 
